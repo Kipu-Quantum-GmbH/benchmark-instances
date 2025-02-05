@@ -46,10 +46,7 @@ Ising model with a Hamiltonian with terms of order up to 3. More precisely,
 for spin variables $\sigma_i \in \{-1,1\}$ with $i=1,\ldots, n$, the 
 Hamiltonian is 
 given by
-$$H(\sigma) = \sum_{0 \leq i \leq n }  h_i \sigma_i + \sum_{1 \leq i < j 
-\leq n} J_{ij} 
-\sigma_i 
-\sigma_j + \sum_{1 \leq i < j < k \leq n} K_{ijk} \sigma_i \sigma_j \sigma_k$$
+$$H(\sigma) = \sum_{0 \leq i \leq n }  h_i \sigma_i + \sum_{1 \leq i < j \leq n} J_{ij} \sigma_i \sigma_j + \sum_{1 \leq i < j < k \leq n} K_{ijk} \sigma_i \sigma_j \sigma_k$$
 where $h_i$, $J_{ij}$, and $K_{ijk}$ are the coefficients of the linear,
 first, second, and third order terms, respectively. The goal is to find the
 spin configuration $\sigma$ that gives the minimum value of $H(\sigma)$.
