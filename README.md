@@ -1,4 +1,4 @@
-# benchmark-problems
+# benchmark-instances
 
 ## Getting started
 
