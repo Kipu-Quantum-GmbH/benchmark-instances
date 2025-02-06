@@ -28,7 +28,7 @@ where $`\sigma_i \in \{-1,1\}`$ are spin variables. In the case of the Max-Cut
 problem, we have $h_i = 0$ for all $i$ and $J_{ij} = 0.5$ for $(i,j) \in E$.
 
 One can recover from a solution $(\sigma_1 \ldots, \sigma_n)$ to the Ising
-problem the corresponding cut by taking the set of nodes $`S= \{i \in V:
+problem the corresponding cut by taking the set of nodes $`S= \{i \in V: \, 
 \sigma_i = -1\}`$.
 
 ### File format
