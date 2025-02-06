@@ -85,6 +85,15 @@ items
 
 ### Solutions to HUBO Instances
 
+The table below shows the ground state energy of the problem instances in the
+`HUBO` folder.
+
+|       File Name        | Ground state Energy |
+| :--------------------: | :-----------------: |
+| `hubo1_marrakesh.json` |        -234         |
+| `hubo2_marrakesh.json` |        -234         |
+
+
 
 
 
