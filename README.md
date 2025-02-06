@@ -1,4 +1,4 @@
-# Benchmark instances for Kipu Quantum's optimization algorithms
+# Benchmark instances for optimization algorithms
 
 ## Getting started
 
