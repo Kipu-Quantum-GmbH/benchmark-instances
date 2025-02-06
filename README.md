@@ -1,7 +1,5 @@
 # Benchmark instances for optimization algorithms
 
-## Getting started
-
 This repository contains instances of optimization problems that have been
 used for benchmarking Kipu Quantum's optimization algorithms. The instances
 are in JSON format and are organized in folders according to the problem they
